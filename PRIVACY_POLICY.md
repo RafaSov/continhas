@@ -147,7 +147,7 @@ Você tem o direito de:
 Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato:
 
 - **Email:** rafael.olivsou@gmail.com
-- **GitHub:** [github.com/seu-usuario/FinanceApp](https://github.com/seu-usuario/FinanceApp)
+- **GitHub:** [github.com/RafaSov/NoControle](https://github.com/RafaSov/NoControle)
 
 ---
 
