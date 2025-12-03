@@ -1,6 +1,6 @@
 # 🤝 Guia de Contribuição
 
-Obrigado pelo interesse em contribuir com o **NoControle**! Este guia vai te ajudar a entender como participar do projeto.
+Obrigado pelo interesse em contribuir com o **FinanceApp**! Este guia vai te ajudar a entender como participar do projeto.
 
 ---
 
@@ -88,7 +88,7 @@ Vá até o repositório original e clique em "New Pull Request".
 
 ## 🐛 Reportando Bugs
 
-Encontrou um bug? Abra uma [Issue](https://github.com/RafaSov/NoControle/issues) com:
+Encontrou um bug? Abra uma [Issue](https://github.com/RafaSov/FinanceApp/issues) com:
 
 ### Template de Bug Report:
 
@@ -124,7 +124,7 @@ Qualquer outro contexto sobre o problema.
 
 ## 💡 Sugerindo Melhorias
 
-Tem uma ideia? Abra uma [Issue](https://github.com/RafaSov/NoControle/issues) com:
+Tem uma ideia? Abra uma [Issue](https://github.com/RafaSov/FinanceApp/issues) com:
 
 ### Template de Feature Request:
 
