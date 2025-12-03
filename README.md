@@ -21,10 +21,10 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/splash.png" alt="Splash Screen" width="200">
-  <img src="screenshots/resumo.png" alt="Resumo" width="200">
-  <img src="screenshots/mensal.png" alt="Mensal" width="200">
-  <img src="screenshots/detalhes.png" alt="Detalhes" width="200">
+  <img src="Screenshots/splash.png" alt="Splash Screen" width="200">
+  <img src="Screenshots/resumo.png" alt="Resumo" width="200">
+  <img src="Screenshots/mensal.png" alt="Mensal" width="200">
+  <img src="Screenshots/detalhes.png" alt="Detalhes" width="200">
 </p>
 
 ---
