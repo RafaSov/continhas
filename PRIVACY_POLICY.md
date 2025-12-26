@@ -1,6 +1,6 @@
 # 🔒 Política de Privacidade
 
-**FinanceApp - Controle Financeiro Pessoal**
+**Continhas - Controle Financeiro Pessoal**
 
 Última atualização: Dezembro de 2025
 
@@ -8,7 +8,7 @@
 
 ## 📋 Resumo
 
-O **FinanceApp** foi desenvolvido com sua privacidade em mente. Este aplicativo:
+O **Continhas** foi desenvolvido com sua privacidade em mente. Este aplicativo:
 
 - ✅ **NÃO** coleta dados pessoais
 - ✅ **NÃO** rastreia sua localização
@@ -78,7 +78,7 @@ Você pode excluir todos os dados do aplicativo a qualquer momento:
 
 ### 4.1 Não Compartilhamos seus Dados
 
-O FinanceApp **NÃO** compartilha, vende ou transfere suas informações para terceiros.
+O Continhas **NÃO** compartilha, vende ou transfere suas informações para terceiros.
 
 ### 4.2 Exportação pelo Usuário
 
@@ -98,7 +98,7 @@ O aplicativo pode enviar notificações de lembrete de vencimento de contas. Ess
 ### 5.2 Permissões
 
 Ao ativar as notificações, o iOS solicitará sua permissão. Você pode alterar isso a qualquer momento em:
-- Ajustes → FinanceApp → Notificações
+- Ajustes → Continhas → Notificações
 
 ---
 
@@ -119,7 +119,7 @@ Como não transmitimos dados pela internet, não há risco de interceptação de
 
 ## 7. Crianças
 
-O FinanceApp não é direcionado a crianças menores de 13 anos. Não coletamos intencionalmente informações de crianças.
+O Continhas não é direcionado a crianças menores de 13 anos. Não coletamos intencionalmente informações de crianças.
 
 ---
 
@@ -147,17 +147,17 @@ Você tem o direito de:
 Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato:
 
 - **Email:** rafael.olivsou@gmail.com
-- **GitHub:** [github.com/RafaSov/FinanceApp](https://github.com/RafaSov/FinanceApp)
+- **GitHub:** [github.com/RafaSov/Continhas](https://github.com/RafaSov/Continhas)
 
 ---
 
 ## 11. Consentimento
 
-Ao usar o FinanceApp, você concorda com esta Política de Privacidade.
+Ao usar o Continhas, você concorda com esta Política de Privacidade.
 
 ---
 
 <p align="center">
   <strong>Sua privacidade é nossa prioridade.</strong><br>
-  FinanceApp - Controle Financeiro Pessoal
+  Continhas - Controle Financeiro Pessoal
 </p>
